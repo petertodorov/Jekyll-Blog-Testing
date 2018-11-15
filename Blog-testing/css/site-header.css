@@ -1,0 +1,44 @@
+.site-header {}
+
+.site-branding {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 60%, rgba(255, 255, 255, 0) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: var(--spacing-site) 0 4rem 0;
+}
+
+.site-title {
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-bottom: 2px solid lightgrey;
+    position: relative;
+    z-index: 2;
+}
+
+.subtitle {
+    padding: 0.3rem 0;
+    font-style: italic;
+    font-family: serif;
+}
+
+.hideMe {
+    opacity: 0;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    z-index: 2;
+}
+
+.site-title:hover+.hideMe {
+    opacity: 1;
+}

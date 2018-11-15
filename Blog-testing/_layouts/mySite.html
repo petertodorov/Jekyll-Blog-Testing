@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+    <div class="site">
+
+
+        <input type="checkbox" id="nav-main-toggle" name="nav-main-toggle">
+        <header class="site-header">
+            <div class="site-branding">
+                <p class="site-title">{{site.title}} </p>
+                <p class="hideMe">You are in: {{page.title}}</p>
+                <p class="subtitle">Things about me...</p>
+            </div>
+            <label for="nav-main-toggle" class="fas nav-toggle" id="nav-toggle-left"><span>Menu</span></label>
+            <label for="nav-main-toggle" class="fas nav-toggle" id="nav-toggle-right"><span>Menu</span></label>
+            <nav class="navigation">
+                <ul>
+                    <li>
+                        <a href="/" class="fas fa-newspaper">Blog</a></li>
+                    <li>
+                        <a href="/about/" class="fas fa-user">About</a></li>
+                    <li>
+                        <a href="/contacts/" class="fas fa-envelope">Contacts</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="site-content">
+            {{content}}
+        </main>
+        <footer class="site-footer">
+        </footer>
+    </div>
+</body>
+
+</html>

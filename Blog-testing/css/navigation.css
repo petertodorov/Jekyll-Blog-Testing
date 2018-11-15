@@ -1,0 +1,78 @@
+        .navigation {
+            background: transparent;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+            display: none;
+        }
+        
+        .navigation ul {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .navigation li {
+            list-style: none;
+            padding: 1rem;
+        }
+        
+        .navigation a {
+            background: #FFF;
+            text-decoration: none;
+            color: #666;
+            display: block;
+            padding: 1rem;
+            box-shadow: 0 0 1.5rem 0.1rem rgba(0, 0, 0, 0.1)
+        }
+        
+        .navigation a:before {
+            margin-right: 1rem;
+        }
+        
+        #nav-main-toggle {
+            position: absolute;
+            opacity: 0;
+        }
+        
+        .nav-toggle {
+            display: block;
+            position: fixed;
+            z-index: 1000;
+            text-align: center;
+            padding: 0 0.5rem;
+            top: var(--spacing-site, 2rem);
+            left: var(--spacing-site, 2rem);
+            font-size: 2rem;
+        }
+        
+        #nav-toggle-left {}
+        
+        #nav-toggle-right {
+            left: inherit;
+            right: var(--spacing-site, 2rem);
+        }
+        
+        .nav-toggle:before {
+            margin-right: 1rem;
+        }
+        
+        .nav-toggle:before {
+            content: "\f0c9"
+        }
+        
+        .nav-toggle span {
+            display: none;
+        }
+        
+        #nav-main-toggle:checked+.site-header .navigation {
+            display: flex;
+        }
+        
+        #nav-main-toggle:checked+.site-header .nav-toggle:before {
+            content: "\f00d";
+        }
