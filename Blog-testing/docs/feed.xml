@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-15T13:28:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter’s Blog</title><subtitle>This is the personal blog of Peter Todorov</subtitle><entry><title type="html">My second post!</title><link href="http://localhost:4000/2018/11/13/my-second-post.html" rel="alternate" type="text/html" title="My second post!" /><published>2018-11-13T11:06:23+02:00</published><updated>2018-11-13T11:06:23+02:00</updated><id>http://localhost:4000/2018/11/13/my-second-post</id><content type="html" xml:base="http://localhost:4000/2018/11/13/my-second-post.html">&lt;h2 id=&quot;title-of-second-post&quot;&gt;Title of second post&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu rhoncus purus, quis pretium mi. Sed convallis magna sit amet purus lobortis scelerisque. Suspendisse lectus turpis, laoreet ac vestibulum in, consectetur ac massa. Morbi tincidunt nec ante et sodales. Morbi ut facilisis ligula, eu scelerisque magna. Integer eu mi semper, placerat erat quis, porta neque. Donec finibus congue lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id luctus turpis. Sed vel ante ac turpis suscipit volutpat ac sit amet urna. Nulla vel porttitor diam. Quisque egestas nisi tellus, placerat placerat risus condimentum id. Proin nec rutrum turpis. Etiam enim lacus, condimentum gravida tincidunt vel, vehicula et sapien. Vestibulum at quam gravida, feugiat risus ac, convallis nisl.&lt;/p&gt;
+
+&lt;p&gt;Sed dapibus, eros in malesuada feugiat, est enim pellentesque erat, vehicula pellentesque metus velit vitae quam. Praesent laoreet leo non tincidunt volutpat. Morbi semper nunc non lorem commodo, a feugiat mi egestas. Vestibulum in massa ullamcorper, varius purus quis, scelerisque sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam at urna a turpis dignissim rhoncus. Nulla molestie ante lorem, vitae dapibus augue lobortis sed. Integer metus erat, pulvinar id justo in, ultricies rhoncus velit. Aliquam vitae efficitur purus. Nam aliquet laoreet libero, in ultricies felis convallis id. Phasellus in consequat orci, non fermentum felis. Suspendisse potenti. Cras eget velit erat. Mauris vel erat semper, sagittis dui eu, posuere augue. Aenean vitae lorem et dolor sollicitudin congue id a nisi.&lt;/p&gt;
+
+&lt;ul&gt;
+                &lt;li&gt;
+                    &lt;a href=&quot;/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href=&quot;/contacts/&quot;&gt;Contacts&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+
+&lt;p&gt;Praesent orci orci, blandit vel lacus eu, bibendum vehicula nisl. Vestibulum molestie ultrices dui, sed cursus odio aliquet et. Praesent posuere metus massa, sed porta tortor gravida quis. Pellentesque in risus quis purus sodales porttitor. Proin id quam sed nulla aliquet semper eu eu lacus. Nunc ultricies, sem ut pretium dignissim, libero mi tristique dolor, at sagittis dui ligula nec lacus. Phasellus non nunc a augue eleifend auctor. Mauris rutrum interdum lacus quis rhoncus. In vulputate purus mauris, quis ornare dolor molestie sed. Duis commodo sem dignissim nibh tempor, nec blandit erat pretium. Curabitur mattis non lorem ut accumsan. Morbi efficitur metus vel mauris tempor maximus. Quisque nec aliquet ligula. Aliquam gravida, augue ac luctus semper, tellus libero auctor ligula, in pretium orci tellus et diam. Etiam quis pharetra quam, ut molestie urna.&lt;/p&gt;</content><author><name></name></author><summary type="html">Title of second post</summary></entry><entry><title type="html">My first post!</title><link href="http://localhost:4000/2018/11/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="My first post!" /><published>2018-11-13T11:06:23+02:00</published><updated>2018-11-13T11:06:23+02:00</updated><id>http://localhost:4000/2018/11/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2018/11/13/welcome-to-jekyll.html">&lt;h1 id=&quot;title-level-1&quot;&gt;Title Level 1&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu rhoncus purus, quis pretium mi. Sed convallis magna sit amet purus lobortis scelerisque. Suspendisse lectus turpis, laoreet ac vestibulum in, consectetur ac massa. Morbi tincidunt nec ante et sodales. Morbi ut facilisis ligula, eu scelerisque magna. Integer eu mi semper, placerat erat quis, porta neque. Donec finibus congue lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id luctus turpis. Sed vel ante ac turpis suscipit volutpat ac sit amet urna. Nulla vel porttitor diam. Quisque egestas nisi tellus, placerat placerat risus condimentum id. Proin nec rutrum turpis. Etiam enim lacus, condimentum gravida tincidunt vel, vehicula et sapien. Vestibulum at quam gravida, feugiat risus ac, convallis nisl.&lt;/p&gt;
+
+&lt;h2 id=&quot;title-level-2&quot;&gt;Title Level 2&lt;/h2&gt;
+
+&lt;p&gt;Sed dapibus, eros in malesuada feugiat, est enim pellentesque erat, vehicula pellentesque metus velit vitae quam. Praesent laoreet leo non tincidunt volutpat. Morbi semper nunc non lorem commodo, a feugiat mi egestas. Vestibulum in massa ullamcorper, varius purus quis, scelerisque sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam at urna a turpis dignissim rhoncus. Nulla molestie ante lorem, vitae dapibus augue lobortis sed. Integer metus erat, pulvinar id justo in, ultricies rhoncus velit. Aliquam vitae efficitur purus. Nam aliquet laoreet libero, in ultricies felis convallis id. Phasellus in consequat orci, non fermentum felis. Suspendisse potenti. Cras eget velit erat. Mauris vel erat semper, sagittis dui eu, posuere augue. Aenean vitae lorem et dolor sollicitudin congue id a nisi.&lt;/p&gt;
+
+&lt;h3 id=&quot;title-level-3&quot;&gt;Title Level 3&lt;/h3&gt;
+
+&lt;p&gt;Praesent orci orci, blandit vel lacus eu, bibendum vehicula nisl. Vestibulum molestie ultrices dui, sed cursus odio aliquet et. Praesent posuere metus massa, sed porta tortor gravida quis. Pellentesque in risus quis purus sodales porttitor. Proin id quam sed nulla aliquet semper eu eu lacus. Nunc ultricies, sem ut pretium dignissim, libero mi tristique dolor, at sagittis dui ligula nec lacus. Phasellus non nunc a augue eleifend auctor. Mauris rutrum interdum lacus quis rhoncus. In vulputate purus mauris, quis ornare dolor molestie sed. Duis commodo sem dignissim nibh tempor, nec blandit erat pretium. Curabitur mattis non lorem ut accumsan. Morbi efficitur metus vel mauris tempor maximus. Quisque nec aliquet ligula. Aliquam gravida, augue ac luctus semper, tellus libero auctor ligula, in pretium orci tellus et diam. Etiam quis pharetra quam, ut molestie urna.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/contacts/&quot;&gt;Contacts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;title-level-3-1&quot;&gt;Title Level 3&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Praesent orci orci, blandit vel lacus eu, bibendum vehicula nisl. Vestibulum molestie ultrices dui, sed cursus odio aliquet et. Praesent posuere metus massa, sed porta tortor gravida quis. Pellentesque in risus quis purus sodales porttitor. Proin id quam sed nulla aliquet semper eu eu lacus. Nunc ultricies, sem ut pretium dignissim, libero mi tristique dolor, at sagittis dui ligula nec lacus. Phasellus non nunc a augue eleifend auctor. Mauris rutrum interdum lacus quis rhoncus. In vulputate purus mauris, quis ornare dolor molestie sed. Duis commodo sem dignissim nibh tempor, nec blandit erat pretium. Curabitur mattis non lorem ut accumsan. Morbi efficitur metus vel mauris tempor maximus. Quisque nec aliquet ligula. Aliquam gravida, augue ac luctus semper, tellus libero auctor ligula, in pretium orci tellus et diam. Etiam quis pharetra quam, ut molestie urna.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/contacts/&quot;&gt;Contacts&lt;/a&gt;
+    &lt;h3 id=&quot;title-level-3-2&quot;&gt;Title Level 3&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Praesent orci orci, blandit vel lacus eu, bibendum vehicula nisl. Vestibulum molestie ultrices dui, sed cursus odio aliquet et. Praesent posuere metus massa, sed porta tortor gravida quis. Pellentesque in risus quis purus sodales porttitor. Proin id quam sed nulla aliquet semper eu eu lacus. Nunc ultricies, sem ut pretium dignissim, libero mi tristique dolor, at sagittis dui ligula nec lacus. Phasellus non nunc a augue eleifend auctor. Mauris rutrum interdum lacus quis rhoncus. In vulputate purus mauris, quis ornare dolor molestie sed. Duis commodo sem dignissim nibh tempor, nec blandit erat pretium. Curabitur mattis non lorem ut accumsan. Morbi efficitur metus vel mauris tempor maximus. Quisque nec aliquet ligula. Aliquam gravida, augue ac luctus semper, tellus libero auctor ligula, in pretium orci tellus et diam. Etiam quis pharetra quam, ut molestie urna.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/contacts/&quot;&gt;Contacts&lt;/a&gt;
+    &lt;h3 id=&quot;title-level-3-3&quot;&gt;Title Level 3&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Praesent orci orci, blandit vel lacus eu, bibendum vehicula nisl. Vestibulum molestie ultrices dui, sed cursus odio aliquet et. Praesent posuere metus massa, sed porta tortor gravida quis. Pellentesque in risus quis purus sodales porttitor. Proin id quam sed nulla aliquet semper eu eu lacus. Nunc ultricies, sem ut pretium dignissim, libero mi tristique dolor, at sagittis dui ligula nec lacus. Phasellus non nunc a augue eleifend auctor. Mauris rutrum interdum lacus quis rhoncus. In vulputate purus mauris, quis ornare dolor molestie sed. Duis commodo sem dignissim nibh tempor, nec blandit erat pretium. Curabitur mattis non lorem ut accumsan. Morbi efficitur metus vel mauris tempor maximus. Quisque nec aliquet ligula. Aliquam gravida, augue ac luctus semper, tellus libero auctor ligula, in pretium orci tellus et diam. Etiam quis pharetra quam, ut molestie urna.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/contacts/&quot;&gt;Contacts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Title Level 1</summary></entry></feed>
